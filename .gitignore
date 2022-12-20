@@ -1,8 +1,8 @@
 /.idea/*
+/*/*.exe
 /*/main.exe
 /*/main
 /*/*/*.exe
-#chapter5/enum.exe
 /chapter5/enum.dSYM/*
 /chapter5/datatypes
 /chapter5/enum
@@ -17,3 +17,4 @@
 .vscode/*
 /challenges/*/main.dSYM/*
 /challenges/*/main
+.gitignore
