@@ -107,4 +107,13 @@
 ![img.png](assets/img8.png)
 
 ## truth table
+
 ![img.png](assets/img9.png)
+
+## character function
+
+![](assets/img10.png)
+
+## convert string to number
+![](assets/img11.png)
+
